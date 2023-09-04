@@ -1,6 +1,8 @@
 DSI Core Readme
 ------------------------
 
+Project Link: https://hackaday.io/project/364-mipi-dsi-display-shieldhdmi-adapter
+
 0. Disclaimer
 
 This project implements a MIPI DSI (MIPI Display Serial Interface) Verilog core.
